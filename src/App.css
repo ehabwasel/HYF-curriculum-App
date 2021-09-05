@@ -1,0 +1,51 @@
+body{
+background-image: url('https://images.all-free-download.com/images/graphicthumb/blue_abstract_background_310971.jpg');
+background-position: center , center; /* Center the image */
+background-repeat: no-repeat ,no-repeat; /* Do not repeat the image */
+background-size: cover; /* Resize the background image to cover the entire container */
+height: 100vh;
+}
+.module-container {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.btn {
+  width: 100px;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.btn:hover{
+  background-color: green;
+  color: white;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  
+  height: 30px;
+  justify-content: center;
+  
+
+
+  
+ 
+}
+.input{
+  width: 50px;
+  text-align: center;
+ 
+
+}
+.lable{
+  margin: 5px;
+  color: rgb(10, 10, 10);
+}
+.title{
+  text-align: center;
+  margin: auto;
+  color: white;
+}
