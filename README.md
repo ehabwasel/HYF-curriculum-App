@@ -4,7 +4,7 @@
    <img src="https://yt3.ggpht.com/ytc/AKedOLReKLvi3H044OrI-QbBy2Fipc0l8tpldfEKIv07vQ=s176-c-k-c0x00ffffff-no-rj-mo" alt="Logo" width="80" height="80">
 
   </a>
-   <h2 align="center">HYF-curriculum-App :100:</h2>
+   <h2 align="center"> HYF-curriculum-App :100:</h2>
        <p align="center"> :pushpin: Please  Cick on image to find the live demo 	:rocket:	:rocket: </p>
 <details open="open">
   <summary><h3>:point_right: Table of Contents</h3></summary>
