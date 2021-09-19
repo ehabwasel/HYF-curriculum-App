@@ -12,7 +12,7 @@
     <li>
       <a href="#about-the-project"><h4> :wave: About The Project</h4></a> 
       <ul>
-        <li>This project desplay the HYF course curriculum - displaying  your grades in  graphical way using Each section in curriculum (HTML,CSS,JS,NODEJS,Database,REACT)</li>
+        <li>This project desplay the HYF course curriculum - displaying  your grades in  graphical way using Quickchart npm to display  your grades (HTML , CSS , JS, NODEJS , Database , REACT)</li>
       </ul>
     </li>
     <li>
