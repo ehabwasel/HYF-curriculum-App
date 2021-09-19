@@ -18,7 +18,7 @@
     <li>
        <h4>:love_you_gesture:  What I did</h4>
        <ul>
-          This application has three routs (using react-rout) first page has the Button options to move between the two graph pages second page for the radar graph and lase one for the bar graph
+          This application has three routs (using react-router) first page has the Button options to move between the two graph pages second page for the radar graph and lase one for the bar graph
       </ul></li>
      <li>
        <h4> :writing_hand: How I did it </h4>
