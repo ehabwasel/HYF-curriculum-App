@@ -25,7 +25,7 @@
        <ul>
           <li>In this Application i used React framwork and i used Coved 19 Api to fetch the data </li> 
          <li>adding two inputs and use event to pick up the target dates and use the as veriables to change api fetching  </li>
-         <li>Using also React hooks(Usecontext - useEffct - useState ) and making custon hook for fetching Data </li>
+         <li>Using also React hooks <h4>(Usecontext - useEffct - useState )</h4> and making custom UseFetch hook for fetching Data </li>
       </ul></li>
       <li>
      <h4> :facepunch:
