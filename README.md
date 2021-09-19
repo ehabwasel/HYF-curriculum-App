@@ -41,7 +41,7 @@
 </details>
 
 
- ## video demo
+ ##  Demo
   https://user-images.githubusercontent.com/72751605/132142538-ee001bce-5087-4fd7-a9eb-f473ef183a54.mp4
 
 <p align="center">
